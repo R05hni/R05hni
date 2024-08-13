@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R05hni
+- 👋 Hi, I’m @Roshni Pandey 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on upcoming projects
